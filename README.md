@@ -1,4 +1,8 @@
 # FryingPanAnglers
-Frying Pan Anglers Website Redesign
+Frying Pan Anglers Website Redesign / of this site http://fryingpananglers.com/
+
 Applying Bootstrap into a redesign of a dated Fly Fishing Website. 
-Which will be used to update their site and better their presence online for potential clientele.
+
+This was done for practice / fun. Some of the pictures are missing since their actual shopping site has gone offline. 
+
+The logo used to be a .png and it pains me to have a .jpg with white in the header, but I used URL's for source images to keep the design lighter.
